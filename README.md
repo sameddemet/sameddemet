@@ -1,4 +1,4 @@
-![Cover](https://github.com/sameddemet/sameddemet/blob/master/img/kapadokya.jpg)
+![Cover](https://github.com/sameddemet/sameddemet/blob/master/img/kapadok.jpg)
 
 **Hello, I'am Samed,** SysAdm from :fr: Paris, France. 
 
